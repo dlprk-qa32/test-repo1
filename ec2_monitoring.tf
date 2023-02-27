@@ -5,6 +5,6 @@ resource "aws_instance" "app_server" {
   ingress_cidr_blocks = ["0.0.0.0/16"]
   monitoring = false
   tags = {
-    Name = "ExampleAppServerInstance"
+    Name = "ExampleAppServerInstance222"
   }
 }
