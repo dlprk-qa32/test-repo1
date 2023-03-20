@@ -1,6 +1,6 @@
 {
 "Resources":{
-  "S3Bucket":{
+  "S3Bucket1":{
     "Type": "AWS::S3::Bucket",
      "Metadata": {"zpc-skip-policy": "ZS-AWS-00018,ZS-AWS-00025,ZS-AWS-00025,ZS-AWS-00034:new comment;ZS-AWS-00036:testing"},
     "Properties":{
